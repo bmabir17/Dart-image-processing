@@ -1,0 +1,6 @@
+name : hello
+version: 0.0.1
+author : B M Abir <bmabir17@gmail.com>
+dependencies:
+   image: ^2.0.5
+
